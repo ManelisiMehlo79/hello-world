@@ -1,2 +1,2 @@
 # hello-world
-My first Fintech project.
+I am a graduate from Nelson Mandela University with an Advanced Diploma in Software Development. I currently work as a Front-End Intern at Appimate, where I focus on building user-friendly and responsive web interfaces. In this role, I work with technologies such as HTML, CSS, JavaScript, and React to develop and improve real-world applications, while collaborating closely with other developers. I also have experience using Python and Laravel, which helps me understand how front-end systems connect with back-end logic. In addition, I have won first place in two hackathons, where I strengthened my problem-solving skills, learned to work under pressure, and delivered practical solutions within tight deadlines.
